@@ -1,3 +1,4 @@
 textfile 1 content
 line added from online
-second line added from online
+second line added from online conflicts
+conflict
